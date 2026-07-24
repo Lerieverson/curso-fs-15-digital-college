@@ -1,0 +1,23 @@
+h1{
+    color: red;
+    
+    font-family: Verdana;
+}
+p{
+    color: rgb(12, 12, 12);
+    font-family: verdana;
+}
+h2{
+    font-weight: bold;
+    color: rgb(12, 12, 12); 
+    font-family: verdana;
+}
+.word-spacing{
+    word-spacing: 20px;
+}
+.letter-spacing{
+    letter-spacing: 10px;
+}
+.line-height{
+    line-height: 10px;
+}
